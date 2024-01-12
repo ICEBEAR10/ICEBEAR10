@@ -1,3 +1,3 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ICEBEAR10 alt=icebear /> </p>
 
-<img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
+<img align="right" alt="GIF" src="https://in.pinterest.com/pin/74239093851038054/?raw=true" width="500" height="320" style="border-radius:50%" />
