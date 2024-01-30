@@ -4,3 +4,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=chaitanyasinghnegi&icon=0&color=11)](https://visitcount.itsvg.in)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaitanyasinghnegi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
